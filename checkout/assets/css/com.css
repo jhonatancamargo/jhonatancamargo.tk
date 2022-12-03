@@ -202,16 +202,17 @@ body {
 
   .mobile img{
     border-radius: 8px;
+    width: 370;
   }
 
   .pri-M{
-    width: 350;
+
     margin: 12px;
   }
 
   .du-M{
-    width: 350;
   }
 .du-3{
   margin: 10px;
 }
+
