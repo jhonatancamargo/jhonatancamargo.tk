@@ -197,12 +197,12 @@ body {
 
   @media(max-width: 768px) {
   .pit {
-    width: 350px;
+    width: 330px;
   }
 
   .mobile img{
     border-radius: 8px;
-    width: 350;
+    width: 330px;
   }
 
   .pri-M{
